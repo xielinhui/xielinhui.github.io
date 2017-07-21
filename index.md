@@ -15,16 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-这玩意儿好难玩...
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+高性能javascript
+  1.加载和执行
+    页面堵塞
+    script标签尽量放<body>标签的底部,以尽量减少对整个页面下载的影响
+    
+  2数据存放
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
